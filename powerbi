@@ -1,0 +1,31 @@
+import data into powerbi.
+how to build a model.
+how you can share report with others.
+
+download powerbi desktop in windows
+
+go to main report view -> opens when you just open power bi.
+
+in home-> getdata -> <select_data>
+
+select the file.
+
+this opens a navigator tab which we will use to get data to powerbi efficiently,
+
+-> we will take the tables from the box.
+-> we can transform before bringing it into powerbi
+-> or we can ust use load.
+
+at the right side at the data box we will get the all the information of data 
+that is being loded.
+
+now we can try any refinements to the data.
+some of the examples are below:
+
+
+
+left side of the work space (in the middle left) there are 3 options 
+and second one is data view click on that.
+-> we can see all the data available in the imported tables.
+-> we select which table to see on the left.
+
