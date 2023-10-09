@@ -14,7 +14,7 @@ this opens a navigator tab which we will use to get data to powerbi efficiently,
 
 -> we will take the tables from the box.
 -> we can transform before bringing it into powerbi
--> or we can ust use load.
+-> or we can just use load.
 
 at the right side at the data box we will get the all the information of data 
 that is being loded.
@@ -28,4 +28,35 @@ left side of the work space (in the middle left) there are 3 options
 and second one is data view click on that.
 -> we can see all the data available in the imported tables.
 -> we select which table to see on the left.
+
+
+in the example we saw in tutorial by kevin stratvert power bi tutorial in 10 
+we have.
+
+united stated as it is and at some places we have us instead.
+this is a problem so we will now solve it.
+
+
+to do so we will have to go back to the report view.
+and in the top ribbon we have.
+
+->home->queries->trasformdata.
+
+it will open powerquery editor.
+
+doing something in powerquery editor will not effect our data in local machine.
+it acts as middle layer between data and your work.
+
+now in power query editor we get to see the available tables at the left hand side.
+
+
+we can now see the country column with inconsistent references.
+
+now right click on the column header and we can get a bunch of options.
+what we want to do now is replace values.
+click on it.
+
+
+we will fill what to be replaced by what.
+
 
