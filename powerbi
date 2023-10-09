@@ -56,7 +56,23 @@ now right click on the column header and we can get a bunch of options.
 what we want to do now is replace values.
 click on it.
 
-
 we will fill what to be replaced by what.
 
+we can see the record of all of the steps we are making at the right hand side.
 
+if we get to bring additional data the same steps will be applied to the new data too.
+
+
+we can remove the columns we do not need by clicking on the column
+and selecting the option in the ribbon saying remove column.
+.....
+there are so many kinds of trasformations that we can apply to our data
+which we can see above at ->transform section.
+
+.....
+
+after doing everything to clean the data when yiu are saticified with the data
+click on ->home->close & apply-> close & apply.
+
+....
+we will get back to main report view.
