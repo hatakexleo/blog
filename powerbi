@@ -76,3 +76,14 @@ click on ->home->close & apply-> close & apply.
 
 ....
 we will get back to main report view.
+on the left hand side the third option from the three options available which
+is data model click on it.
+
+to establish realatin between 2 tables. we can drag a attribute from one table 
+the other which will now establish the new realtion.
+
+we can see the relations amoung the table.
+
+power bi already detected the relation amoung tables.
+
+
