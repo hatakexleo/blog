@@ -83,7 +83,42 @@ to establish realatin between 2 tables. we can drag a attribute from one table
 the other which will now establish the new realtion.
 
 we can see the relations amoung the table.
+report is collection of different visualizations.
+
 
 power bi already detected the relation amoung tables.
+...
+
+now go back to the report view and now try to build a report.
+
+we can see all the visuals at the right side.
+
+in the example we will want to check the cokies shipped over time so
+line chart would be a great one.
+
+now after clicking on the line chart from the visuals available.
+we can now place the cookies shipped fromm the table and drag it and place 
+it at y_axis.
+and date at the x_axis.
+
+now we can see the graph on daily basis.
+we can resize and reposition.
+
+now we can also see that in the example the graph was dirty and we canot see
+anything at all.
+
+if we click on the graph we can see that there is one option to drill up.
+now we can look at monthly and yearly basis.
+
+we can check in options at visualization that we can add secondary y axis.
+we can keep a legend.
+
+also we also check revinue and it will guess the best visuals.
+on rhs we willselect card now we can see the direct revinuew of 6m instaed of barchart
+
+if w check on the customer name it will place a table like element on hte report
+
+which is cool it will now show according to selected customer of the graphs
+which will change dynamically 
 
 
